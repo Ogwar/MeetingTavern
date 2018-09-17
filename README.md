@@ -1,2 +1,2 @@
 # MeetingTavern
-My first Repository
+My first Repository, so bear with me
